@@ -1,0 +1,1 @@
+State and prove Stokes theorem : Statement : The line integral of the tangential component of a vector F taken around a simple closed curve C is equal to the surface integral of the normal component of the curl F taken over any surface S having C as its boundary  i.e fF.dr = [ [ ( V × F ) .  ñ ds .  .  ... ..... ( 1 ) C S
